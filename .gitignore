@@ -1,0 +1,11 @@
+﻿venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+output/*.png
+logs/*.log
+*.dll
+*.exe
+.vscode/
+node_modules/
